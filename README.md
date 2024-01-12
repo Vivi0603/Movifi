@@ -1,5 +1,4 @@
 # Movifi
-Movie Recommendation System
 Architected and deployed a state-of-the-art movie recommendation engine leveraging Flutter for cross-platform
 functionality and Kotlin for Android-specific applications, with a backend infrastructure powered by MongoDB for
 efficient data retrieval and storage solutions.
